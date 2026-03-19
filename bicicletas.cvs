@@ -1,0 +1,6 @@
+id,modelo,tipo,precio_hora,disponibles
+1,Urban 300,Urbana,7000,12
+2,Trail-X,Montaña,12000,8
+3,Speedster,Carretera,15000,6
+4,FoldGo,Plegable,9000,10
+5,EcoRide,Eléctrica,18000,5
