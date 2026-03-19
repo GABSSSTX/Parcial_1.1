@@ -1,4 +1,4 @@
-id,modelo,tipo,precio_hora,disponibles
+id,modelo,tipo,precio,disponibles
 1,Urban 300,Urbana,7000,12
 2,Trail-X,Montaña,12000,8
 3,Speedster,Carretera,15000,6
